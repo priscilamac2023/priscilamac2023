@@ -1,6 +1,6 @@
 # 👩‍💻 Priscila Machado  
 
-**Desenvolvedora Front-End Júnior | HTML5, CSS3, JavaScript | Desenvolvimento Web Responsivo e Acessível**  
+**Desenvolvedora Front-End  | HTML5, CSS3, JavaScript | Desenvolvimento Web Responsivo e Acessível**  
 
 🌍 São Paulo - Brasil  
 📚 Estudante de Gestão da Tecnologia da Informação – **Senac EAD**  
@@ -11,7 +11,7 @@
 Sou **Desenvolvedora Front-End Júnior** com experiência prática em **HTML5, CSS3 e JavaScript**, criando interfaces modernas, responsivas e acessíveis.  
 Tenho também experiência em **design gráfico**, o que me permite unir técnica e estética em meus projetos.  
 
-Atualmente estudo **Gestão da Tecnologia da Informação** no **Senac** e busco oportunidades como **Front-End Júnior ou Estagiária**, em modelo remoto ou híbrido, onde possa aplicar meus conhecimentos e continuar evoluindo.  
+Atualmente estudo **Gestão da Tecnologia da Informação** no **Senac** e busco oportunidades como **Front-End  ou Estagiária**, em modelo remoto ou híbrido, onde possa aplicar meus conhecimentos e continuar evoluindo.  
 
 ---
 
