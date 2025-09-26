@@ -28,7 +28,7 @@ Atualmente estudo **Gestão da Tecnologia da Informação** no **Senac** e busco
 
 ## 📂 Projetos em Destaque  
 
-🔹 **[Landing Page - Clínica de Podologia](#)**  
+🔹 **[Landing Page - Clínica de Podologia](my-landing-page-azure.vercel.app)**  
 Landing page responsiva com foco em conversão e experiência do usuário.  
 **Tecnologias:** HTML5, CSS3, Flexbox  
 
