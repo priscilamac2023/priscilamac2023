@@ -32,7 +32,7 @@ Atualmente estudo **Gestão da Tecnologia da Informação** no **Senac** e busco
 Landing page responsiva com foco em conversão e experiência do usuário.  
 **Tecnologias:** HTML5, CSS3, Flexbox  
 
-🔹 **[Site Temático - Batman](https://priscilamac2023.github.io)**  
+🔹 **[Site Temático - Batman](https://priscilamac2023.github.io/projeto-batman/)**  
 Projeto pessoal com design responsivo, cards de atores e integração de trailer.  
 **Tecnologias:** HTML5, CSS3  
 
